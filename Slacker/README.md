@@ -1,4 +1,4 @@
-# music-website
+# music-website -Personal Project
 
 🎵 音乐网站(HTML + CSS + jQuery)
 
